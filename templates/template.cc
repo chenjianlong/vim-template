@@ -1,11 +1,12 @@
 /* $Id$ */
 
-#include "%FILE%.h"
+#include "template.h"
 
-%CLASS%::%CLASS%()
+Template::Template()
 { }
 
-%CLASS%::~%CLASS%()
+Template::~Template()
 { }
 
-%HERE%
+
+
