@@ -2,7 +2,7 @@
  * \file %FFILE%
  * \brief The %CLASS% class implementation.
  * \author %USER% <%MAIL%>
- * \date %YEAR%-%MONTH%-%DAY%
+ * \date %DATE%
  */
 /* $Id$ */
 

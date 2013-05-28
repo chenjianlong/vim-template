@@ -7,6 +7,6 @@
 __author__ = [
         "%USER% <%MAIL%>"
         ]
-__date__ = "%YEAR%-%MONTH%-%DAY%"
+__date__ = "%DATE%"
 __license__ = "public domain"
 
