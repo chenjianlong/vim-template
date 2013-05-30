@@ -1,9 +1,9 @@
 # file %FFILE%
-# brief TOOD add your brief here
+# brief %HERE%TOOD add your brief here
 # author %USER%  <%MAIL%>
 # date %DATE%
 # $Id$
 
 all:
-	%HERE%@echo "%FFILE% needs your attention"
+	@echo "%FFILE% needs your attention"
 
