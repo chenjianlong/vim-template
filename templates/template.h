@@ -22,4 +22,5 @@ protected:
 	/// TODO: add your member variable
 };
 
-#endif /* %GUARD% */
+#endif /* !%GUARD% */
+

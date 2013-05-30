@@ -8,5 +8,4 @@ __author__ = [
         "%USER% <%MAIL%>"
         ]
 __date__ = "%DATE%"
-__license__ = "public domain"
 
