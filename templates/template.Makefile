@@ -1,5 +1,5 @@
 # file %FFILE%
-# author %USER% 
+# author %USER%  <%MAIL%>
 # date %DATE%
 # $Id$
 
