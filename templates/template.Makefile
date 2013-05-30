@@ -1,4 +1,5 @@
 # file %FFILE%
+# brief TOOD add your brief here
 # author %USER%  <%MAIL%>
 # date %DATE%
 # $Id$
