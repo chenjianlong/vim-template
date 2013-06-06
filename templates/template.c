@@ -1,11 +1,10 @@
 /*
- * %FFILE%
- * Copyright (C) %YEAR% %USER% <%MAIL%>
- *
- * Distributed under terms of the MIT license.
+ * \file %FFILE%
+ * \brief %HERE%TODO add your brief
+ * \author %USER% <%MAIL%>
+ * \date %DATE%
  */
+/* $Id$ */
 
 #include "%FILE%.h"
 
-
-%HERE%
