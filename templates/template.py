@@ -3,8 +3,6 @@
 # vim:fenc=utf-8:et
 """%HERE%
 """
-__author__ = [
-        "%USER% <%MAIL%>"
-        ]
+__author__ = ["%USER% <%MAIL%>"]
 __date__ = "%DATE%"
 
