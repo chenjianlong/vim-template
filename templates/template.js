@@ -1,7 +1,6 @@
 /*
- * %FFILE%
- * Copyright (C) %YEAR% %USER% <%MAIL%>
- *
- * Distributed under terms of the MIT license.
+ * @file %FFILE%
+ * @author %USER% <%MAIL%>
+ * @date %DATE% 
  */
 %HERE%

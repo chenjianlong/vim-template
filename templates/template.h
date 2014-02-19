@@ -12,8 +12,8 @@
 class %CLASS%
 {
 public:
-	%CLASS%();
-	virtual ~%CLASS%();
+	%CLASS% ();
+	virtual ~%CLASS% ();
 
 	/// TODO: add your member function
 	%HERE%
@@ -23,4 +23,3 @@ protected:
 };
 
 #endif /* !%GUARD% */
-
