@@ -12,14 +12,14 @@
 class %CLASS%
 {
 public:
-	%CLASS%();
-	virtual ~%CLASS%();
+    %CLASS%();
+    virtual ~%CLASS%();
 
-	/// TODO: add your member function
-	%HERE%
+    /// TODO: add your member function
+    %HERE%
 
 protected:
-	/// TODO: add your member variable
+    /// TODO: add your member variable
 };
 
 #endif /* !%GUARD% */
