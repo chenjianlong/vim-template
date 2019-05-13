@@ -1,1 +1,11 @@
-=template=.c
+#include "%FILE%.h"
+
+%CLASS%::%CLASS%()
+{
+}
+
+%CLASS%::~%CLASS%()
+{
+}
+
+%HERE%

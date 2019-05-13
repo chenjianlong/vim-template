@@ -1,13 +1,21 @@
-/*
- * %FFILE%
- * Copyright (C) %YEAR% %USER% <%MAIL%>
- *
- * Distributed under terms of the %LICENSE% license.
- */
+/// \file %FFILE%
+/// \brief The %CLASS% class implementation.
+/// \author %USER% <%MAIL%>
 
 #ifndef %GUARD%
 #define %GUARD%
 
-%HERE%
+class %CLASS%
+{
+public:
+    %CLASS%();
+    virtual ~%CLASS%();
+
+    /// TODO: add your member function
+    %HERE%
+
+private:
+    /// TODO: add your member variable
+};
 
 #endif /* !%GUARD% */
